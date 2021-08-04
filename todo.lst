@@ -1,0 +1,5 @@
+setup a nice logger function
+validate composite key
+validate allowed data range of values
+validate allowed string category
+setup a nice utils file -- timers and utilization decorators -- cprofile hooks
